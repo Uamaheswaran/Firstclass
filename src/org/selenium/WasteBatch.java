@@ -38,7 +38,11 @@ public class WasteBatch {
 			
 		}
 
-	
+	public void mahes() {
+		
+		System.out.println("i am mahes");
+
+	}
 
 
 
